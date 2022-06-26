@@ -27,6 +27,11 @@ Repeat 3 and 4 until we get the solved puzzle.
 Calculate the time taken to solve the sudoku.
 
 ## <br><br><br>Program:
+```
+Developed By
+Student name : Kumaran.B
+Reg.no : 212220230026
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -138,6 +143,6 @@ def search(values):
 ![Screenshot (290)](https://user-images.githubusercontent.com/75243072/172680951-c03c99a5-8aec-405d-9b91-aa1dec071103.png)
 
 
-## Result:
+## <br><br><br><br>Result:
 Thus, a program to solve sudoku puzzle using constraint propagation is implemented successfully.
     
